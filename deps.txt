@@ -1,0 +1,4 @@
+pystray : ubuntu python3-pystray
+PIL Image, ImageTk : ubuntu python3-pil python3-pil.imagetk
+colorlog : ubuntu python3-colorlog
+ttkbootstrap : pip install --user ttkbootstrap
